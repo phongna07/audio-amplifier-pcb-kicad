@@ -16,10 +16,6 @@ A small mono audio amplifier built around the LM386, designed in KiCad 10 for **
   <img src="images/pcb-layout.png" alt="PCB layout" width="550">
 </p>
 
-### 3D view
-<p align="center">
-  <img src="images/pcb-3d.png" alt="3D render" width="550">
-</p>
 
 ## How it works
 
