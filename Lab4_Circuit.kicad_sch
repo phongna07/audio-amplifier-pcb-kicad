@@ -2485,10 +2485,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "798e648d-3332-4e7b-ac7e-8c3717262d69")
+			(uuid "798e648d-3332-4e7b-ac7e-8c3717262d6a")
 		)
 		(pin "2"
-			(uuid "59b52e85-07eb-4336-8d84-d7bf2122c7f1")
+			(uuid "59b52e85-07eb-4336-8d84-d7bf2122c7f2")
 		)
 		(instances
 			(project "Lab4_Circuit"
@@ -2565,10 +2565,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "798e648d-3332-4e7b-ac7e-8c3717262d69")
+			(uuid "798e648d-3332-4e7b-ac7e-8c3717262d6b")
 		)
 		(pin "2"
-			(uuid "59b52e85-07eb-4336-8d84-d7bf2122c7f1")
+			(uuid "59b52e85-07eb-4336-8d84-d7bf2122c7f3")
 		)
 		(instances
 			(project "Lab4_Circuit"
@@ -3170,10 +3170,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "286341f0-acd7-4c99-87f9-4ef8e34eb21a")
+			(uuid "286341f0-acd7-4c99-87f9-4ef8e34eb21b")
 		)
 		(pin "1"
-			(uuid "c0229038-cee2-4d0e-84c4-4f2a2b95d162")
+			(uuid "c0229038-cee2-4d0e-84c4-4f2a2b95d163")
 		)
 		(instances
 			(project "Lab4_Circuit"
